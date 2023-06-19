@@ -1,2 +1,2 @@
 # Online-Resume
-Resume that has bee made completely by using HTML
+Resume that has been made completely by using HTML
